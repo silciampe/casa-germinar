@@ -7,9 +7,9 @@ export const proyectoContent = {
   contexto: {
     titulo: 'Contexto',
     parrafos: [
-      'Casa Germinar es un dispositivo de alojamiento transitorio perteneciente a la ONG Aldeas, destinado a mujeres con hijos que atraviesan situaciones de vulnerabilidad y requieren un espacio de acompañamiento y contención.',
+      'Casa Germinar es un proyecto de la Secretaría de Salud de Rosario en co-gestión con la ONG Aldeas. Constituye un dispositivo de alojamiento transitorio destinado a mujeres con hijos que atraviesan situaciones de vulnerabilidad y requieren un espacio de acompañamiento y contención.',
       'La permanencia de cada familia es variable, generalmente entre tres y seis meses, por lo que el ingreso y egreso de participantes es continuo.',
-      'Esta característica hace inviable un programa tradicional con principio y fin definidos.',
+      'Esta característica dificulta la implementación de un programa tradicional con principio y fin definidos.',
       'Como respuesta a esta realidad, la propuesta se organiza en doce encuentros cíclicos.',
       'Las participantes pueden incorporarse en cualquier momento del ciclo sin perder continuidad en el proceso de aprendizaje.',
       'En caso de repetir un encuentro, asumirán un rol activo colaborando con la coordinación de las actividades, fortaleciendo su autoestima, favoreciendo el aprendizaje entre pares y consolidando los conocimientos adquiridos.',
