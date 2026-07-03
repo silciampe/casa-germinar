@@ -4,7 +4,7 @@ export const huertaContent = {
     titulo: 'El espacio',
     parrafos: [
       'La casa cuenta con un patio seco y en todos los encuentros se trabajará en la construcción y mantenimiento de la misma.',
-      'Se piensa en la creación de una huerta en masetas según temporada, lo que permite adaptar la producción a las condiciones del espacio y al momento del año.',
+      'Se piensa en la creación de una huerta en macetas según temporada, lo que permite adaptar la producción a las condiciones del espacio y al momento del año.',
       'La condición del patio seco plantea un desafío concreto que las participantes abordan de manera colectiva, incorporando conocimientos sobre suelo, siembra, riego y cuidados.',
     ],
   },
@@ -19,7 +19,7 @@ export const huertaContent = {
   elementos: {
     titulo: 'Elementos necesarios',
     items: [
-      'Masetas',
+      'Macetas',
       'Tierra',
       'Semillas',
       'Palas',
